@@ -2,4 +2,4 @@
 
 HW1 uploaded
 
-HW2 uploaded
+HW2 uploaded (uploaded .py version as well)
